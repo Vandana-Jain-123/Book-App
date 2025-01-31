@@ -1,0 +1,10 @@
+.bookDetail {
+    width: 400px;
+    height: 330px;
+    padding: 20px;
+    border: 1px solid blue;
+    text-align: center;
+    margin: auto;
+    line-height: 7px;
+    margin-top: 50px;
+}

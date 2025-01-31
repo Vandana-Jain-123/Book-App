@@ -1,0 +1,33 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.card {
+    width: 250px;
+    height: 300px;
+    border: 1px solid blue;
+    line-height: 10px;
+    padding: 10px;
+}
+
+.card img{
+    width: 100px;
+    height: 70px;
+    margin-left:30% ;
+}
+.card h5{
+    line-height: 7px;
+}
+.card button{
+    border-radius: 10px;
+    border: none;
+    width: 70px;
+    padding: 10px;
+    margin-left: 10px;
+    background-color: rgb(135, 135, 223);
+    color: black;
+}

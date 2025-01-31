@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "books":[
+    {
+      "id":1,
+      "name":"the Great gasty",
+      "category":"fiction",
+      "price":299,
+      "publishingYear":1925,
+      "coverImage":"ghfghfhfh",
+      "description":"hjkhkehrjrew hjgjwerwg"
+    },
+      {
+        "id": 1,
+        "name": "the Great gasty",
+        "category": "fiction",
+        "price": 299,
+        "publishingYear": 1925,
+        "coverImage": "ghfghfhfh",
+        "description": "hjkhkehrjrew hjgjwerwg"
+      },
+        {
+          "id": 1,
+          "name": "the Great gasty",
+          "category": "fiction",
+          "price": 299,
+          "author":"np.john",
+          "publishingYear": 1925,
+          "coverImage": "ghfghfhfh",
+          "description": "hjkhkehrjrew hjgjwerwg"
+        }
+
+
+  ]
+}
